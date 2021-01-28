@@ -12,21 +12,21 @@
 
 /* jumbotron */
 .jumbotron{
-        background-image: url(img/hero.svg);
-        margin-top: -75px;
-        height: 640px;
-        background-size: cover;
-        width:100%;
-        background-position: auto;
-        background-repeat:no-repeat; 
-    }
-    .jumbotron .display-4{
-        color: #87BAFB;
-        text-align: left;
-        margin-top: 150px;
-        font-weight: 200;
-        font-size: 50px;
-    }
+    background-image: url(img/jumbotron-mobile.svg);
+    background-size: 400px;
+    height: 620px;
+    width:100%;
+    background-position: center;
+    background-repeat:no-repeat; 
+   
+}
+.jumbotron .display-4{
+    color: #E4E4E4;
+    text-align: left;
+    margin-top: 150px;
+    font-weight: 200;
+    font-size: 50px;
+}
 .jumbotron .display-4 span{
     font-weight: 500;
 }
